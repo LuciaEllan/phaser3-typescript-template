@@ -1,4 +1,3 @@
-
 export class GameScene extends Phaser.Scene {
   private mockupScreen: Phaser.GameObjects.Container;
   private background: Phaser.GameObjects.Rectangle;
