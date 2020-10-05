@@ -5,7 +5,6 @@ This is based on [this Medium article by digitsensitive](https://medium.com/@dig
 ## Initialize the template
 ```
 npm install
-cp ./node_modules/phaser/types/phaser.d.ts ./src/phaser.d.ts
 ```
 
 ## Build and run
